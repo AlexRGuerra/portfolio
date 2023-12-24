@@ -333,7 +333,7 @@ strong {
 		font-size: 10vw;
 		justify-content: center;
 		font-weight: 500;
-		color: var(--white-color);
+		color: var(--text-color);
 	}
 
 	.responsive_title2 {
@@ -342,7 +342,7 @@ strong {
 		justify-content: center;
 		font-weight: 300;
 		text-align: center;
-		color: var(--white-color);
+		color: var(--text-color);
 	}
 }
 
